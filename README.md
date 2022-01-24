@@ -1,4 +1,10 @@
-# teste_scafold
+# Projeto Loja Virtual
+
+Projeto inicial para loja virtual,utilizando gerenciador de estado Provider.
+
+![Screenshot_1643051510](https://user-images.githubusercontent.com/98062365/150849030-45a9aaf8-5f5a-4cd7-8e9d-ad584ea9e249.png)
+![Screenshot_1643051533](https://user-images.githubusercontent.com/98062365/150849042-69f5dc14-5271-4ca6-967b-4ce6e41181be.png)
+![Screenshot_1643051545](https://user-images.githubusercontent.com/98062365/150849065-6707ef19-9144-49c7-aff7-48c838408c61.png)
 
 A new Flutter project.
 

@@ -1,10 +1,12 @@
-# Projeto Loja Virtual
+# Loja Virtual
 
 Projeto inicial para loja virtual,utilizando gerenciador de estado Provider.
 
-![Screenshot_1643051510](https://user-images.githubusercontent.com/98062365/150849030-45a9aaf8-5f5a-4cd7-8e9d-ad584ea9e249.png)
-![Screenshot_1643051533](https://user-images.githubusercontent.com/98062365/150849042-69f5dc14-5271-4ca6-967b-4ce6e41181be.png)
-![Screenshot_1643051545](https://user-images.githubusercontent.com/98062365/150849065-6707ef19-9144-49c7-aff7-48c838408c61.png)
+![nike1](https://user-images.githubusercontent.com/98062365/152447892-04b89a3f-71b2-406d-b93c-b8cc9ac78f93.gif)
+![nike2](https://user-images.githubusercontent.com/98062365/152447895-f6dfefe0-f915-492b-85a8-800da3bcb6c9.gif)
+![nike3](https://user-images.githubusercontent.com/98062365/152447898-9e46391d-e1fe-47b3-9792-eae759ae89a3.gif)
+![nike4](https://user-images.githubusercontent.com/98062365/152447900-a3e1ab4b-ccb0-4f00-95d5-e7db7be66f53.gif)
+
 
 A new Flutter project.
 

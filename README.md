@@ -1,6 +1,6 @@
 # Loja Virtual
 
-Projeto inicial para loja virtual,utilizando gerenciador de estado Provider.
+Projeto inicial para loja virtual,utilizando flutter e gerenciador de estado Provider.
 
 ![nike1](https://user-images.githubusercontent.com/98062365/152447892-04b89a3f-71b2-406d-b93c-b8cc9ac78f93.gif)
 ![nike2](https://user-images.githubusercontent.com/98062365/152447895-f6dfefe0-f915-492b-85a8-800da3bcb6c9.gif)
